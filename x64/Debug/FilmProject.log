@@ -1,0 +1,3 @@
+﻿  FilmProject.cpp
+C:\Users\Rog\source\repos\FilmProject\FilmProject.cpp(114,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  FilmProject.vcxproj -> C:\Users\Rog\source\repos\FilmProject\x64\Debug\FilmProject.exe
